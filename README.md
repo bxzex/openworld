@@ -2,9 +2,9 @@
 
 **Maps, directions and the live world, in one free map.**
 
-[Open OpenWorld](https://sites.bxzex.com/openworld/) · [More work at bxzex.com](https://bxzex.com/projects)
+[Open OpenWorld](https://openworldd.com/) · [More work at bxzex.com](https://bxzex.com/projects)
 
-![OpenWorld](https://sites.bxzex.com/openworld/og.png)
+![OpenWorld](https://openworldd.com/og.png)
 
 OpenWorld is a map app in the browser that does what the big map and navigation apps do, then keeps going. It is built only on open and public data: no accounts, no API keys, nothing sold.
 

@@ -1,37 +1,52 @@
 # OpenWorld
 
-**Maps, directions and the live world, in one free map.**
+**A free map for getting around and seeing what's happening in the world right now.**
 
 [Open OpenWorld](https://openworldd.com/) · [More work at bxzex.com](https://bxzex.com/projects)
 
 ![OpenWorld](https://openworldd.com/og.png)
 
-OpenWorld is a map app in the browser that does what the big map and navigation apps do, then keeps going. It is built only on open and public data: no accounts, no API keys, nothing sold.
+OpenWorld runs in your browser on a phone, tablet or computer. There's no account to make, no ads, and it doesn't track you. Your saved places stay on your device.
+
+## Getting around
+- Driving, transit, walking, cycling and flying, side by side with a time for each
+- Trains, coaches, buses and metro with real timetables, changes and live delays where the operator shares them. If there's no station near you, it has you drive to one and park
+- Ticket buttons that go straight to the operator (Amtrak, Brightline, FlixBus, Greyhound and others) and to fare sites
+- Flights from the nearest real airports, with stops, time gate to gate and fare search on Kayak, Skyscanner, Momondo, Expedia and Kiwi.com
+- Leave now, leave at a time, or arrive by a time
+- Up to three stops, and avoid tolls, highways or ferries
+
+## Before you drive
+- Weather along the route for the time you'll actually be there, like "Heavy rain on I-4 around 5:40"
+- Routes around danger: tornado, flood, storm and fire warnings, smoky air and closed roads
+- What the trip costs in gas or charging, plus tolls
+- Charging stops for an electric car, worked out from its range
+- Live traffic camera pictures along the way
+
+## While you drive
+- Turn-by-turn voice directions with lane guidance ("use the right 2 lanes")
+- Your car on the road, moving smoothly, picked from a dozen models
+- Speed limit and your speed, stop signs, speed and red-light cameras, crashes and roadwork ahead
+- An arrival screen when you get there
+- The map along your route is saved before you leave, so it keeps working if you lose signal
 
 ## Maps and places
-- Vector street map drawn on the GPU, in six styles plus satellite, with 3D buildings
-- Search for businesses and addresses near you, with hours, phone, website and photos for each place
-- Saved places and lists (Favorites, Want to go, your own), shareable as a link
-- Offline areas: save a city and keep using the map with no signal
-- Report a problem with a place, sent straight to the open map so it gets fixed for everyone
+- A sharp street map in several styles, satellite view and 3D buildings
+- Street view: drag the walker onto a blue street and look around
+- Businesses near you with hours, phone, website and photos
+- Saved places and lists you can share with a link
+- Save a whole city to use with no signal
 
-## Directions and navigation
-- Driving, walking and cycling routes with up to three stops, and avoid tolls, highways or ferries
-- Flights: the nearest real airports for both ends, door-to-door time, and fares on the booking sites
-- Turn-by-turn navigation with spoken directions, rerouting, the posted speed limit and crashes or roadwork ahead
-- Pick your vehicle: a dozen 3D cars that drive along the road
+## The world, live
+- Every plane in the sky in 3D, satellites and the space station in orbit
+- Hurricanes with forecast cones, tornadoes, wildfires and earthquakes
+- Rain radar, clouds and air quality
+- Traffic incidents and more than 40,000 public traffic cameras, 13,000 of them live video
 
-## The live world
-- Every aircraft in the sky in real 3D models with airline liveries, including helicopters and military
-- Satellites and the space station in orbit, live
-- Hurricanes with forecast cones, tornado warnings and damage tracks, wildfires and earthquakes
-- Live traffic incidents and more than 40,000 public traffic cameras across 42 states, 13,000 of them live video
-- Clouds, rain radar and the weather anywhere you tap
-
-Works on desktop, tablet and phone, in light and dark.
+Light and dark, on any screen size.
 
 ## About
 
-Designed and built by [bxzex](https://bxzex.com), a software studio in Orlando, Florida. The source is private.
+Designed and built by [bxzex](https://bxzex.com), a software studio in Orlando, Florida. The source code is private.
 
 © 2026 bxzex

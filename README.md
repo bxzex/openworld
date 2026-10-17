@@ -6,7 +6,7 @@
 
 ![OpenWorld](https://openworldd.com/og.png)
 
-OpenWorld runs in your browser on a phone, tablet or computer. There's no account to make, no ads, and it doesn't track you. Your saved places stay on your device.
+OpenWorld works anywhere in the world, on a phone, tablet or computer. It's built for phones first, and you can add it to your home screen on iPhone or Android so it opens full screen like an app. There's no account to make, no ads, and it doesn't track you. Your saved places stay on your device.
 
 ## Getting around
 - Driving, transit, walking, cycling and flying, side by side with a time for each
@@ -43,7 +43,7 @@ OpenWorld runs in your browser on a phone, tablet or computer. There's no accoun
 - Rain radar, clouds and air quality
 - Traffic incidents and more than 40,000 public traffic cameras, 13,000 of them live video
 
-Light and dark, on any screen size.
+Light and dark, on any screen size. Install it from the menu with Add to home screen.
 
 ## About
 
